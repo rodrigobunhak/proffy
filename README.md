@@ -16,31 +16,31 @@ Plataforma responsável por integrar alunos com professores, desenvolvido atrav�
 `$ git clone https://github.com/rodrigobunhak/proffy.git`
 
 #### Executando o sevidor
-// navegue até o diretório server
+###### navegue até o diretório server
 `$ cd Proffy/server`
 
-// instale as dependências
+###### instale as dependências
 `$ yarn install`
 
-// inicie o projeto
+###### inicie o projeto
 `$ yarn start`
 
 #### Executando a aplicação web
-// navegue até o diretório web
+###### navegue até o diretório web
 `$ cd Proffy/web`
 
-// instale as dependências
+###### instale as dependências
 `$ yarn install`
 
-// inicie o projeto
+###### inicie o projeto
 `$ yarn start`
 
 #### Executando a aplicação mobile
-// navegue até o diretório mobile
+###### navegue até o diretório mobile
 `$ cd Proffy/mobile`
 
-// instale as dependências
+###### instale as dependências
 `$ yarn install`
 
-// inicie o projeto
+###### inicie o projeto
 `$ yarn start`
